@@ -1,0 +1,10 @@
+1 Taine 4
+2 Ivo 3
+3 Reis 4
+4 Juno 2
+5 Seth 4
+6 Kush 2
+7 Clementine 3
+8 Brady 3 
+9 Azra 3
+10 Zahraa 2
