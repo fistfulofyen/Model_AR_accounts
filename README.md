@@ -32,3 +32,28 @@ The `User` class is the final derived class from `Employee`. It represents users
 
 The program reads user data from a text file that includes information about employees. The format of the text file should be as follows:
 
+
+The program will read each line of the text file, extract the employee's data, and assign the corresponding role (Manager, Worker, or User) to each employee.
+
+## Getting Started
+
+To run the AR Company Simulation Project, follow these steps:
+
+1. Clone the project repository from [GitHub Repo URL].
+2. Open the project in your preferred C++ IDE.
+3. Build and compile the project.
+4. Prepare a text file with employee data in the specified format (employeeID, name, age, role).
+5. Run the program and provide the path to the text file as input.
+6. The program will read the data, assign roles to employees, and manage their schedules accordingly.
+
+## Contributing
+
+...
+
+## License
+
+ME
+
+## Contact
+
+Me
