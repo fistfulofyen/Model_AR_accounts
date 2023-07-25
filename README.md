@@ -32,6 +32,13 @@ The `User` class is the final derived class from `Employee`. It represents users
 
 The program reads user data from a text file that includes information about employees. The format of the text file should be as follows:
 
+```
+employeeID, name, age, role
+1, John Doe, 30, Manager
+2, Jane Smith, 25, Worker
+3, Alex Johnson, 22, User
+...
+```
 
 The program will read each line of the text file, extract the employee's data, and assign the corresponding role (Manager, Worker, or User) to each employee.
 
@@ -52,8 +59,6 @@ To run the AR Company Simulation Project, follow these steps:
 
 ## License
 
-ME
-
+...
 ## Contact
-
-Me
+...
